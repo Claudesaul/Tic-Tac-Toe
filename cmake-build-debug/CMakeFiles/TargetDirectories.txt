@@ -1,0 +1,3 @@
+/Users/claude/GitHub/Tic-Tac-Toe/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/claude/GitHub/Tic-Tac-Toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/claude/GitHub/Tic-Tac-Toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
